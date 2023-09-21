@@ -86,3 +86,11 @@ footer {
     margin: 1.5em 0;
     text-align: center;
 }
+
+a {
+    text-decoration: none;
+}
+
+a img {
+    border: 0;
+}
